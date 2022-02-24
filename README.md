@@ -1,2 +1,3 @@
 # Battery-Capacity-Prediction
-Combining deliberate data generation with data-driven modelling to predict the behaviour and capacity of Electric Vehicle(EV) battery.
+
+Accurately predicting the lifetime and capacity of complex, nonlinear systems such as Electric Vehicle(EV) batteries is critical for accelerating technology development. 
